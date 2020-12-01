@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BookReader</string>
+    <string name="title_activity_main">Book Reader</string>
+    <string name="title_activity_read">Read a book</string>
+    <string name="activity_read_local">From Disk</string>
+    <string name="activity_read_remote">From URL</string>
+    <string name="dialog_insert_url_title">Book URL</string>
+    <string name="dialog_insert_url_hint">Please enter a valid URL</string>
+    <string name="dialog_insert_url_positive">Read</string>
+    <string name="dialog_insert_url_negative">Cancel</string>
+    <string name="dialog_read_error_title">Error</string>
+    <string name="dialog_read_error_text">An error has occurred</string>
+    <string name="dialog_read_error_positive">OK</string>
+    <string name="read_activity_select">Please select a book</string>
+</resources>
